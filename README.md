@@ -47,5 +47,7 @@ The workshop is scheduled for 1pm ET October 13th, 2022. A recording of the sess
 | **collection_id**     |   num    | collection id (nullable)   | 9735                            |
 | **collection_name**   |   char   | collection name (nullable) | Friday the 13th Collection      |
 
+## Recording video
 
+The recording video is available [here](https://www.youtube.com/watch?v=EnNWkF9Jtj4&list=LLWTFKtW_ReLP9zmMTYjRqug).
 
